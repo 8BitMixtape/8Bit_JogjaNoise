@@ -42,7 +42,7 @@ Choose from a large collection of community contributed [Sequencers, Noise Gener
 
 ## Dedicated NoiseCodes
 
-We have adapted other open source NoiseCodes to work on this littel NoiseBomb, such as:
+We have adapted other open source NoiseCodes to work on this little NoiseBomb, such as:
 
 * Jogjarmageddon - based on [Mozenzeef's Jarmageddon](https://www.moffenzeefmodular.com/jarmaggeddon)
 * QuantumNoise - based on [Alexander Zolotov's QuantumDJ](http://warmplace.ru/hard/qdj/)
