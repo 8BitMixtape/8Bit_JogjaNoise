@@ -3,6 +3,8 @@
 8Bit Mixtape goes minimal stompbox style for simple NoiseBomb
 
 
+![](https://github.com/8BitMixtape/8Bit_JogjaNoise/raw/master/photos/JogjaNoise_Prototype.jpg)
+
 # Features
 
 ## New Bootloader for instant Noise
