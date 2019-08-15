@@ -19,4 +19,4 @@
 
 # Schematic
 
-
+![](https://github.com/8BitMixtape/8Bit_JogjaNoise/raw/master/8Bit_JogjaNoise_Shematic_v01.png)
