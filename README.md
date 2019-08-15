@@ -20,6 +20,12 @@ https://github.com/ChrisMicro/TinyAudioBoot
 
 ## diversity of Jacks 3.5 and 6.5 option
 
+# PCB
+
+We tried to create a PCB design that fits into a Hammond 1590A box, but also can be used stand-alone, and etched by hand single sided.
+
+![](https://github.com/8BitMixtape/8Bit_JogjaNoise/raw/master/photos/JogjaNoise_v01_bith.png)
+
 # Schematic
 
 ![](https://github.com/8BitMixtape/8Bit_JogjaNoise/raw/master/8Bit_JogjaNoise_Shematic_v01.jpg)
