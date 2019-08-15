@@ -11,7 +11,7 @@ It is a lo-fi 8Bit noise synthesizer based on the Arduino-compatible ATTINY85, f
 
 ## New Bootloader for instant Noise
 
-The key feature of the new 8Bit Mixtape NEO is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone (or walkman). Adjust volume to 50-70% if you encounter troubles during upload.
+The key feature of the new 8Bit NoiseBomb is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone (or walkman). Adjust volume to 50-70% if you encounter troubles during upload.
 
 See more about this super powerful and easy-to-use TinyAudioBoot by Christoph Haberer here:
 https://github.com/ChrisMicro/TinyAudioBoot
@@ -49,7 +49,7 @@ We have adapted other open source NoiseCodes to work on this littel NoiseBomb, s
 * Adaptations from the [ATTINY PUNK CONSOLE by Steffen Koritsch](https://noisio.de/)
 * Various Synths from the [8Bit Mixtape Community, especially by Budi Prakosa](http://neo.8bitmixtape.cc/mixtape)
 
-## Write your onw NoiseCode
+## Write your own NoiseCode
 
 Create your own custom synthesizers or filter using the popular Arduino IDE platform. Many examples help you to learn about DDS (Direct Digital Synthesis) using the 8Bit microcontroller ATTINY85.
 
