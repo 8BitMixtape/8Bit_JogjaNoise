@@ -9,6 +9,9 @@
 
 ## New Bootloader for instant Noise
 
+See more about TinyAudioBoot here:
+https://github.com/ChrisMicro/TinyAudioBoot
+
 ## Blinke Potentiometer
 
 ## 1 x CV input
